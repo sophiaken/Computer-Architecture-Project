@@ -1,2 +1,5 @@
 # My-Projects
-The projects that I have worked on machine learning and AI .
+This folder consists of projects where I have used machine learning algorithms.
+
+#Programming language utilized :
+Python
